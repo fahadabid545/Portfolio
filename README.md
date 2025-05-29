@@ -17,11 +17,11 @@ Some featured projects:
 - **Digit Classifier** – ANN trained on MNIST dataset  
 - **POS Tagging** – •	Implemented Part-of-Speech tagging on English text corpora. 
 
-Visit the [live site](https://fahadabid545.github.io/Portfolio/) to explore more.
+Visit the <a href="https://fahadabid545.github.io/Portfolio/" target="_blank">live site</a> to explore more.
 
 ## 📄 Resume
 
-[Download Resume](https://drive.google.com/file/d/1si9vZhG7DRxWufz5yGvZ9ipp6Y0GGNQS/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1si9vZhG7DRxWufz5yGvZ9ipp6Y0GGNQS/view?usp=sharing" target="_blank">Download Resume</a>
 
 ## 🔗 Connect with Me
 
