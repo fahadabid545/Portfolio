@@ -21,7 +21,7 @@ Visit the [live site](https://fahadabid545.github.io/Portfolio/) to explore more
 
 ## 📄 Resume
 
-[Download Resume]([https://drive.google.com/uc?export=download&id=1Np7xqluQNvFukshTYvZwtpt0pnfLygi1](https://drive.google.com/file/d/1Eu_AAccMyjFSh_VHrVoAhnP_nQKXsckS/view?usp=sharing)
+[Download Resume](https://drive.google.com/file/d/1si9vZhG7DRxWufz5yGvZ9ipp6Y0GGNQS/view?usp=sharing)
 
 ## 🔗 Connect with Me
 
