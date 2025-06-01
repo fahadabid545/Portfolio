@@ -17,19 +17,20 @@ Some featured projects:
 - **Digit Classifier** – ANN trained on MNIST dataset  
 - **POS Tagging** – •	Implemented Part-of-Speech tagging on English text corpora. 
 
-Visit the <a href="https://fahadabid545.github.io/Portfolio/" target="_blank">live site</a> to explore more.
+Visit the <a href="https://fahadabid545.github.io/Portfolio/">live site</a> to explore more.
 
 ## 📄 Resume
 
-<a href="https://drive.google.com/file/d/1si9vZhG7DRxWufz5yGvZ9ipp6Y0GGNQS/view?usp=sharing" target="_blank">Download Resume</a>
+<a href="https://drive.google.com/file/d/1si9vZhG7DRxWufz5yGvZ9ipp6Y0GGNQS/view?usp=sharing">Download Resume</a>
 
 ## 🔗 Connect with Me
 
-- <a href="https://www.linkedin.com/in/m-fahad-5a7a03339/" target="_blank">LinkedIn</a>
-- <a href="https://github.com/fahadabid545" target="_blank">GitHub</a>
-- <a href="https://instagram.com/stop.it.fahad" target="_blank">Instagram</a>
-- <a href="https://dev.to/fahadabid545" target="_blank">Dev.to</a>
-- <a href="https://kaggle.com/fahadabid545" target="_blank">Kaggle</a>
+- <a href="https://github.com/fahadabid545">GitHub</a>
+- [Tableau Public](https://public.tableau.com/app/profile/muhammad.fahad1727/vizzes)
+- <a href="https://dev.to/fahadabid545">Dev.to</a>
+- <a href="https://kaggle.com/fahadabid545">Kaggle</a>
+- <a href="https://instagram.com/stop.it.fahad">Instagram</a>
+- <a href="https://www.linkedin.com/in/m-fahad-5a7a03339/">LinkedIn</a>
 
 ## 🛠 Tech Stack
 
