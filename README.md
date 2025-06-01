@@ -25,11 +25,11 @@ Visit the <a href="https://fahadabid545.github.io/Portfolio/" target="_blank">li
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/m-fahad-5a7a03339/)
-- [GitHub](https://github.com/fahadabid545)
-- [Instagram](https://instagram.com/stop.it.fahad)
-- [Dev.to](https://dev.to/fahadabid545)
-- [Kaggle](https://kaggle.com/fahadabid545)
+- <a href="https://www.linkedin.com/in/m-fahad-5a7a03339/" target="_blank">LinkedIn</a>
+- <a href="https://github.com/fahadabid545" target="_blank">GitHub</a>
+- <a href="https://instagram.com/stop.it.fahad" target="_blank">Instagram</a>
+- <a href="https://dev.to/fahadabid545" target="_blank">Dev.to</a>
+- <a href="https://kaggle.com/fahadabid545" target="_blank">Kaggle</a>
 
 ## 🛠 Tech Stack
 
